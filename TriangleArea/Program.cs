@@ -21,7 +21,6 @@ namespace TriangleArea
 
                Console.WriteLine($"Result => {calculator.CalculateTriangleArea(a, b, c)}");
 
-
                Console.ReadLine();
           }
      }
